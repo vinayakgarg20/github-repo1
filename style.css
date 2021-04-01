@@ -1,0 +1,160 @@
+body {
+  padding: 0;
+  background: solid;
+  margin: 0;
+}
+.container-1 {
+  background-color: #171c5d;
+  display: flex;
+  margin: 0;
+
+
+}
+.container-1b {
+  display: flex;
+  position: relative;
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: auto;
+      align-items: center;
+}
+h1{
+  font-size: 83px;
+line-height: 79px;
+color: #fff;
+letter-spacing: 0;
+margin: 0;
+max-width: 674px;
+font-weight: 400;
+}
+p {
+  font-size: 24px;
+line-height: 33px;
+color: #6c72ae;
+letter-spacing: 0;
+max-width: 568px;
+margin: 0 0 33px;
+}
+a {
+   display: inline-block;
+    font-family: "Mabry Pro",Arial,sans-serif;
+    font-size: 27px;
+    color: #fff;
+    letter-spacing: 0;
+    text-align: center;
+    text-decoration: none;
+    background: #ff7e85;
+    border-radius: 3px;
+    padding: 18px 48px 14px;
+    font-weight: 500;
+}
+.container-b {
+  background-color: #f3eae5;
+  position: relative;
+    width: 100%;
+
+}
+.container-2 {
+
+    padding: 0 20px;
+    margin: 0 31.667px;
+}
+
+.container-2-1 {
+  max-width: 850px;
+  padding: 99px 0 0;
+  margin: 0;
+}
+.container-2a {
+  font-size: 43px;
+letter-spacing: 1;
+line-height: 44px;
+font-weight: 400;
+color: #0e1889;
+padding: 0 0 20px;
+margin: 0 0 42px;
+}
+.container-2-2 {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 140px;
+  letter-spacing: 1px;
+
+}
+.block-2a{
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+    line-height: 24px;
+    color: #3e3c43;
+    letter-spacing: 0;
+    margin: 0 0 5px;
+}
+.block-2-2 {
+  padding: 0 55px;
+}
+.container-2-2-h3{
+  font-size: 18px;
+    line-height: 24px;
+    color: #3e3c43;
+    margin: 0 0 5px;
+}
+span {
+  color: #dd59cf;
+}
+.container-3 {
+
+
+
+  max-width: 1200px;
+}
+.container-3-2-1{
+  padding-left: 74px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 48px;
+  justify-content: space-between;
+}
+.container-3-2-2 {
+
+padding-right: 74px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+.container-3-a {
+  font-size: 56px;
+    line-height: 52px;
+    font-weight: 400;
+    color: #0e1889;
+    letter-spacing: 0;
+    max-width: 590px;
+    margin: 0 0 17px;
+}
+.container-3-b {
+  font-size: 20px;
+line-height: 28px;
+color: #3e3c43;
+letter-spacing: 0;
+max-width: 590px;
+}
+.container-5 {
+  display: flex;
+ flex-direction: row;
+}
+.container-5-1 {
+  display: flex;
+  flex-direction: column;
+}
+.container-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.container-6-1 {
+  display: flex;
+  flex-direction: column;
+}
